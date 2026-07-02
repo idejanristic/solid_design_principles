@@ -12,7 +12,7 @@ This repository contains concise notes on the five SOLID object-oriented design 
 
 - [01_Single-responsibility Principle](01_single_responsibility_principle.md)
 - [02_Open-closed Principle](02_open_closed_principle.md)
-- [03_Liskov Substitution Principle](03_Liskov%20Substitution%20Principle.md)
+- [03_Liskov Substitution Principle](03_liskov_substitution_principle.md)
 - [04_Interface Segregation Principle](04_Interface%20Segregation%20Principle.md)
 - [05_Dependency Inversion Principle](05_Dependency%20Inversion%20Principle.md)
 
